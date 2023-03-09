@@ -1,0 +1,21 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    color: #FFF;
+}
+/* Config body */
+body {
+    background-color: #0e1129;
+    padding: 2rem;
+}
+/* Config p */
+p {
+    text-align: center;
+}
+/* Config a */
+a {
+    text-decoration: none;
+}
